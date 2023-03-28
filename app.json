@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "transportation_registration",
+    "slug": "transportation_registration",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
